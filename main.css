@@ -46,7 +46,7 @@ span{
 }
 button:hover{
     transition: 0.9s;
-    color: blue;
+    color: gold;
 }
 
 .center button:active{
