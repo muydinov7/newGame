@@ -18,9 +18,9 @@ tap.addEventListener("click", function (){
     blok.style.display="block"
 })
 
-const pr = prompt("Player Name")
-const pr2 = prompt("Player Name")
-
+const pr = prompt(" Player Name 1 ")
+const pr2 = prompt(" Player Name 2")
+ 
 plne.innerText = pr;
 plne2.innerText = pr2;
 let player1;
