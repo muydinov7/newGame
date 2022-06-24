@@ -36,7 +36,7 @@ boshBut.addEventListener("click" , function (){
         win.remove();
         win2.remove();
     })
-    
+
  
 })
 
