@@ -42,6 +42,7 @@ span{
 
 .center_btn{
     text-align: center;
+    box-shadow: none;
 }
 button:hover{
     transition: 0.9s;
