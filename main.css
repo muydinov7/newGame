@@ -24,8 +24,11 @@ span{
     color: gold;
     font-size: 50px;
 }
-.center button{
-    margin-left: 600px;
+
+.small{
+   width: 100px !important;
+}
+.center_btn button{
     margin-top: 60px;
     background-color: gold;
     color: white;
@@ -35,6 +38,10 @@ span{
     cursor: pointer;
     border-radius: 30px;
     font-size: 50px;
+}
+
+.center_btn{
+    text-align: center;
 }
 button:hover{
     transition: 0.9s;
@@ -64,7 +71,7 @@ button:hover{
   padding: 15px;
   color: gold;
   font-size: 40px;
-  width: 150px;
+  width: 100px;
 }
 
 .flex-player button{
@@ -95,12 +102,13 @@ button:hover{
     font-family: fantasy;
 }
 
-
-
-
 .flex-player h2{
     text-align: center;
     color: yellow;
     font-size: 30px;
     padding: 20px;
+}
+
+.btn-old{
+    border: 2px solid red;
 }

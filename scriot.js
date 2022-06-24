@@ -33,7 +33,7 @@ boshBut.addEventListener("click" , function (){
     bosh2.textContent = player2;
 
     if(player1 < player2){
-        win.append(player1 = "win")
+        win.append(player1 = " win")
     }
     if(player1 > player2){
         win2.append(player2 = " win")
