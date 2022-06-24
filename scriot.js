@@ -17,6 +17,12 @@ tap.addEventListener("click", function (){
     none.style.display="none"
     blok.style.display="block"
 })
+
+const pr = prompt("Player Name")
+const pr2 = prompt("Player Name")
+
+plne.innerText = pr;
+plne2.innerText = pr2;
 let player1;
 let player2;
 boshBut.addEventListener("click" , function (){
@@ -40,12 +46,7 @@ boshBut.addEventListener("click" , function (){
  
 })
 
-const pr = prompt("Player Name")
-const pr2 = prompt("Player Name")
 
-
-plne.innerText = pr;
-plne2.innerText = pr2;
 
 
 
