@@ -40,12 +40,12 @@ boshBut.addEventListener("click" , function (){
  
 })
 
-// const pr = prompt("Player Name")
-// const pr2 = prompt("Player Name")
+const pr = prompt("Player Name")
+const pr2 = prompt("Player Name")
 
 
-// plne.innerText = pr;
-// plne2.innerText = pr2;
+plne.innerText = pr;
+plne2.innerText = pr2;
 
 
 
